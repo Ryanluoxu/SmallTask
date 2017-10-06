@@ -67,7 +67,7 @@ public class TestURL {
 	private static void testLoop() throws IOException {
 
 		String URLFile = "URL.properties";
-		String elementFile = "ElementXPath.properties";
+		String elementFile = "Element.properties";
 		
 		Properties propertiesURL = getProperties(URLFile);
 		Properties propertiesElement = getProperties(elementFile);
