@@ -1,0 +1,9 @@
+
+			[ryan bank transaction log]
+
+txnCode:	dep - deposit
+		wit - withdraw
+
+txnID		date		accountId	txnCode		amount
+-----------------------------------------------------------------------
+
